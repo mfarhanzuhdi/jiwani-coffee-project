@@ -15,9 +15,9 @@ This project is a comprehensive system for Jiwani Coffee that enables customers 
 ## Repository Structure
 The project is divided into three repositories, each focusing on one component:
 
-- [Mobile App Repository](https://github.com/username/android)  
-- [Backend Repository](https://github.com/username/backend)  
-- [Web App Repository](https://github.com/username/webserver)
+- [Mobile App Repository](https://github.com/mfarhanzuhdi/android)  
+- [Backend Repository](https://github.com/mfarhanzuhdi/backend)  
+- [Web App Repository](https://github.com/mfarhanzuhdi/webserver)
 
 ## How They Work Together
 - The mobile app communicates with the backend APIs to fetch menus and send orders.  
